@@ -1,0 +1,9 @@
+{
+    "miniprogramRoot": "./",
+    "projectname": "taro-diy-input",
+    "appid": "testAppId",
+    "setting": {
+        "es6": false,
+        "minified": false
+    }
+}
